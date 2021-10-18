@@ -1,0 +1,11 @@
+import React from 'react'
+
+function Testimonials() {
+    return (
+        <div>
+            Testimonials Component
+        </div>
+    )
+}
+
+export default Testimonials
